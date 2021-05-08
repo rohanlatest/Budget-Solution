@@ -1,1 +1,1 @@
-web: gunicorn Tender_Budget.wsgi --log-file
+web: gunicorn Tender_Budget.wsgi --log-file -
